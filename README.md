@@ -1,6 +1,6 @@
 # LAZAREV. Website Clone
 
-demo:- lazarevwebsite.vercel.app
+demo:- https://lazarevwebsite.vercel.app/
 
 A frontend **clone of the LAZAREV. website**, created for educational and practice purposes. This project recreates the original website's visual design, layout, animations, smooth scrolling, interactive elements, and overall user experience using HTML, CSS, and JavaScript.
 
